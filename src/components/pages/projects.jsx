@@ -46,8 +46,8 @@ const Projects = () => {
     },
     {
       name: "BMI Calculator",
-      gitUrl: "https://github.com/mishael-codes/BMI-Calc",
-      liveUrl: "https://mishael-codes.github.io/BMI-Calc/",
+      gitUrl: "https://github.com/mishaelcodes/bmi-calc-v2",
+      liveUrl: "https://mishaelcodes.github.io/bmi-calc-v2/",
       img: bmi,
       description:
         "With a cause to advocate for healthy living, I built a body mass index calculator which helps to give the user a clear feedback on whether they need to put on weight, pull off weight, or maintain their weight.",
