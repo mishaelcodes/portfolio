@@ -8,38 +8,32 @@ const Projects = () => {
   const someProjects = [
     {
       name: "The Min Game Hub",
-      gitUrl: "https://github.com/mishael-codes/The-Min-Game-Hub",
-      liveUrl: "https://themingamehub.netlify.app",
+      gitUrl: "https://github.com/mishaelcodes/the-min-game-hub",
+      liveUrl: "https://tmgh.netlify.app",
       img: gamehub,
       description:
         "An address on the internet where you can play some of the best games on the internet. This project was built with HTML, CSS and JavaScript. It is fully responsive.",
     },
     {
       name: "SunnySide",
-      gitUrl:
-        "https://github.com/mishael-codes/sunnyside-agency-landing-page-main",
-      liveUrl:
-        "https://mishael-codes.github.io/sunnyside-agency-landing-page-main/",
+      gitUrl: "https://github.com/mishaelcodes/sunnyside-agency",
+      liveUrl: "https://mishaelcodes.github.io/sunnyside-agency/",
       img: sunnyside,
       description:
         "A landing page for a fictional branding agency. This project was built with HTML, CSS and JavaScript. It is fully responsive and has a mobile first design.",
     },
     {
       name: "Social Media Dashboard",
-      gitUrl:
-        "https://github.com/mishael-codes/social-media-dashboard-with-theme-switcher-master",
-      liveUrl:
-        "https://mishael-codes.github.io/social-media-dashboard-with-theme-switcher-master",
+      gitUrl: "https://github.com/mishaelcodes/social-media-dashboard",
+      liveUrl: "https://mishaelcodes.github.io/social-media-dashboard/",
       img: socialDashboard,
       description:
         "A fully responsive social media tracking dashboard with light and dark themes. This was built with HTML, CSS and JavaScript.",
     },
     {
       name: "Huddle Landing Page",
-      gitUrl:
-        "https://github.com/mishael-codes/huddle-landing-page-with-alternating-feature-blocks-master",
-      liveUrl:
-        "https://mishael-codes.github.io/huddle-landing-page-with-alternating-feature-blocks-master",
+      gitUrl: "https://github.com/mishaelcodes/huddle-landing-page",
+      liveUrl: "https://mishaelcodes.github.io/huddle-landing-page/",
       img: huddle,
       description:
         "Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.",
@@ -93,7 +87,7 @@ const Projects = () => {
           ))}
         </div>
         <a
-          href="https://bit.ly/3UuhZl1"
+          href="https://github.com/mishaelcodes"
           rel="noreferrer"
           target="_blank"
           className="relative z-10 bg-background text-accentColor border-b-2 border-accentColor mb-10 see-more transition-all overflow-hidden py-2"
