@@ -102,7 +102,7 @@ const Contact = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://wa.me/+2348167177172"
+            href="https://cuttr.vercel.app/whatsapp"
           >
             <FontAwesomeIcon
               icon={faWhatsapp}
