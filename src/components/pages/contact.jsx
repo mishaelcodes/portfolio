@@ -80,7 +80,7 @@ const Contact = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/mishael-codes"
+            href="https://github.com/mishaelcodes"
           >
             <FontAwesomeIcon
               icon={faGithub}

@@ -1,11 +1,20 @@
-import gamehub from "../../assets/images/projects/The Min Game Hub.webp"
-import sunnyside from "../../assets/images/projects/Sunnyside agency landing page.webp"
-import socialDashboard from "../../assets/images/projects/Social Media Dashboard.webp"
-import huddle from "../../assets/images/projects/Huddle landing page.webp"
-import bmi from "../../assets/images/projects/Body Mass Index.webp"
+import cuttr from "../../assets/images/projects/Cuttr.webp";
+import gamehub from "../../assets/images/projects/The Min Game Hub.webp";
+import sunnyside from "../../assets/images/projects/Sunnyside agency landing page.webp";
+import socialDashboard from "../../assets/images/projects/Social Media Dashboard.webp";
+import huddle from "../../assets/images/projects/Huddle landing page.webp";
+import bmi from "../../assets/images/projects/Body Mass Index.webp";
 const Projects = () => {
   // list of some projects
   const someProjects = [
+    {
+      name: "Cuttr",
+      gitUrl: "https://github.com/mishaelcodes/cuttr",
+      liveUrl: "https://cuttr.vercel.app",
+      img: cuttr,
+      description:
+        "Tame the link chaos! Cuttr for link shortener - lets you shorten, track, and manage all your links in one place. Gain valuable insights and simplify sharing. Free to use, sign up now!",
+    },
     {
       name: "The Min Game Hub",
       gitUrl: "https://github.com/mishaelcodes/the-min-game-hub",
