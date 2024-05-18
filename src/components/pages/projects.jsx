@@ -13,7 +13,7 @@ const Projects = () => {
       liveUrl: "https://cuttr.vercel.app",
       img: cuttr,
       description:
-        "Tame the link chaos! Cuttr for link shortener - lets you shorten, track, and manage all your links in one place. Gain valuable insights and simplify sharing. Free to use, sign up now!",
+        "Tame the link chaos! Cuttr lets you shorten, track, and manage all your links in one place. Gain valuable insights and simplify sharing. Free to use, sign up now!",
     },
     {
       name: "The Min Game Hub",
